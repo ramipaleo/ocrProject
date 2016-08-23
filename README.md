@@ -1,2 +1,2 @@
 # ocrProject
-Example OCR project
+Example OCR project using React Native
