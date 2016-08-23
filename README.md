@@ -1,0 +1,2 @@
+# ocrProject
+Example OCR project
